@@ -1,1 +1,8 @@
+{
+  "host": "your-server-ip-or-domain.aternos.me",
+  "port": 25565,
+  "username": "AFK_Bot_Name",
+  "auth": "microsoft",
+  "version": "1.20.1"
+}
 
