@@ -1,8 +1,8 @@
 {
-  "host": "your-server-ip-or-domain.aternos.me",
+  "host": "flame_dr-bUud.aternos.me:21866",
   "port": 25565,
   "username": "AFK_Bot_Name",
   "auth": "microsoft",
-  "version": "1.20.1"
+  "version": "26.1"
 }
 
